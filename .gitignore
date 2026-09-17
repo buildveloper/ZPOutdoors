@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+# Supplied source folders; the optimized site references the copies in public/ProofOfWork.
+/Logo/
+/ProofOfWork/
+public/brand-mark.jpg
